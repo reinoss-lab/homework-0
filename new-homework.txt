@@ -1,1 +1,2 @@
 test
+Adding a new line to the file new-homework
